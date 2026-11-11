@@ -1,0 +1,4 @@
+# Keep language stats focused on the actual code (Python)
+docs/** linguist-documentation
+*.svg linguist-documentation
+*.txt linguist-vendored
